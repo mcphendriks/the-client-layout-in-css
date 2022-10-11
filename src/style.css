@@ -18,13 +18,13 @@ header > h1 {
   margin: 0;
 }
 nav {
-  background: black;
+  background: cyan;
 
 }
 main {
-  background: cyan;
+  background: magenta;
 }
 footer {
-  background: magenta;
+  background: black;
   color: white;
 }magenta;
