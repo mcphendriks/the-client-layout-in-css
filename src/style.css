@@ -12,18 +12,19 @@ body > * {
   min-height: 1em;
 }
 header {
-  background: cyan;
+  background: yellow;
 }
 header > h1 {
   margin: 0;
 }
 nav {
-  background: magenta;
+  background: black;
+
 }
 main {
-  background: yellow;
+  background: cyan;
 }
 footer {
-  background: black;
+  background: magenta;
   color: white;
-}
+}magenta;
